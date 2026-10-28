@@ -1,0 +1,9 @@
+{
+  "appId": "com.verde.player",
+  "appName": "Verde",
+  "webDir": "www",
+  "backgroundColor": "#000000",
+  "server": {
+    "androidScheme": "https"
+  }
+}
